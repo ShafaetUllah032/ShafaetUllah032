@@ -1,5 +1,5 @@
 # about me 
-### Hi there 👋 I am MD. Safaet Ullah. Soon-to-be CS grad with a fiery passion for ML, NLP, and data science, brewing up magical solutions with code and algorithms. Problem-solving adventurer, always learning and eager to collaborate. 
+### Hi there 👋 I am MD. Safaet Ullah. Resent CS grad with a fiery passion for ML, NLP, and data science, brewing up magical solutions with code and algorithms. Problem-solving adventurer, always learning and eager to collaborate. 
 
 # GitHub stat
 
